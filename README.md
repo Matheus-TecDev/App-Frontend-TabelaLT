@@ -25,10 +25,7 @@ Uma solução prática e funcional, construída como amostra para validar usabil
 
 ## 📚 Tecnologias utilizadas  
 
-- **React.js** ⚛️  
-- **Vite** ⚡  
 - **JavaScript / TypeScript** 🔷
-- **CSS**
 
 ---
 
