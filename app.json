@@ -1,11 +1,11 @@
 {
   "expo": {
-    "name": "Server",
-    "slug": "Server",
+    "name": "LT Veículos",
+    "slug": "LT-Veiculos",
     "version": "1.0.0",
     "orientation": "portrait",
-    "icon": "./assets/images/icon.png",
-    "scheme": "server",
+    "icon": "./assets/images/logo.png",
+    "scheme": "LT Veiculos",
     "userInterfaceStyle": "automatic",
     "newArchEnabled": true,
     "ios": {
@@ -13,10 +13,11 @@
     },
     "android": {
       "adaptiveIcon": {
-        "foregroundImage": "./assets/images/adaptive-icon.png",
+        "foregroundImage": "./assets/images/logo.png",
         "backgroundColor": "#ffffff"
       },
-      "edgeToEdgeEnabled": true
+      "edgeToEdgeEnabled": true,
+      "package": "com.math3u55fr3i43.LTIVeiculos"
     },
     "web": {
       "bundler": "metro",
@@ -37,6 +38,13 @@
     ],
     "experiments": {
       "typedRoutes": true
-    }
+    },
+    "extra": {
+      "router": {},
+      "eas": {
+        "projectId": "8cbe2adb-dd7c-411d-971b-dc84c1628e17"
+      }
+    },
+    "owner": "math3u55fr3i43"
   }
 }
