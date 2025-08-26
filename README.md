@@ -1,50 +1,62 @@
-# Welcome to your Expo app 👋
+# 📱 AppFrontLT  
 
-This is an [Expo](https://expo.dev) project created with [`create-expo-app`](https://www.npmjs.com/package/create-expo-app).
+## 📖 Descrição  
 
-## Get started
+O **AppFrontLT** é um **aplicativo mobile** desenvolvido em **React com Vite**, criado em parceria para apresentar uma proposta inovadora de padronização de tabelas aos clientes da **LT Veículos**.  
+As letras maiores e mais espaçadas não são por falta de estilização, mas sim uma decisão de **usabilidade**: facilitar a leitura em tela única, já que os clientes não desejavam uma tabela com rolagem horizontal.  
+Uma solução prática e funcional, construída como amostra para validar usabilidade, testar novas abordagens e colher feedbacks reais.  
 
-1. Install dependencies
+---
+
+## 🎮 Preview  
+
+![Preview do Projeto](assets/images/AppTabLT.jpg)   
+
+---
+
+## ⚡ Funcionalidades  
+
+- Estrutura completa em **React com Vite** ⚛️⚡  
+- Interface moderna, responsiva e intuitiva 🖥️  
+- Aplicação funcional para demonstração a clientes 📋  
+- Base sólida para futuras integrações e features 🚀  
+
+---
+
+## 📚 Tecnologias utilizadas  
+
+- **React.js** ⚛️  
+- **Vite** ⚡  
+- **JavaScript / TypeScript** 🔷
+- **CSS**
+
+---
+
+## 🚀 Como usar  
+
+1. **Clonar o repositório**  
 
    ```bash
-   npm install
-   ```
+   git clone https://github.com/Matheus-TecDev/App-Frontend-TabelaLT.git
+   
+Entrar na pasta
 
-2. Start the app
+	cd AppFrontLT
+Instalar dependências
 
-   ```bash
-   npx expo start
-   ```
+	npm install
+	
+Rodar em ambiente de desenvolvimento
 
-In the output, you'll find options to open the app in a
+	npx expo start
+	
+---	
+	
+## 👨‍💻 Autores
 
-- [development build](https://docs.expo.dev/develop/development-builds/introduction/)
-- [Android emulator](https://docs.expo.dev/workflow/android-studio-emulator/)
-- [iOS simulator](https://docs.expo.dev/workflow/ios-simulator/)
-- [Expo Go](https://expo.dev/go), a limited sandbox for trying out app development with Expo
+- [Matheus Freire](https://github.com/Matheus-TecDev)  
+- [LinkedIn](https://www.linkedin.com/in/matheus-freire-martins-da-costa-318622376/) 
+ 
+📫 Contato: matheus.tecnodev@gmail.com  
 
-You can start developing by editing the files inside the **app** directory. This project uses [file-based routing](https://docs.expo.dev/router/introduction).
-
-## Get a fresh project
-
-When you're ready, run:
-
-```bash
-npm run reset-project
-```
-
-This command will move the starter code to the **app-example** directory and create a blank **app** directory where you can start developing.
-
-## Learn more
-
-To learn more about developing your project with Expo, look at the following resources:
-
-- [Expo documentation](https://docs.expo.dev/): Learn fundamentals, or go into advanced topics with our [guides](https://docs.expo.dev/guides).
-- [Learn Expo tutorial](https://docs.expo.dev/tutorial/introduction/): Follow a step-by-step tutorial where you'll create a project that runs on Android, iOS, and the web.
-
-## Join the community
-
-Join our community of developers creating universal apps.
-
-- [Expo on GitHub](https://github.com/expo/expo): View our open source platform and contribute.
-- [Discord community](https://chat.expo.dev): Chat with Expo users and ask questions.
+🤝 Projeto desenvolvido em parceria com a empresa DTI como amostra para **LT Veículos**.
