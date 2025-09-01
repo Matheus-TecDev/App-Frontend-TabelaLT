@@ -36,14 +36,14 @@ Uma solução prática e funcional, construída como amostra para validar usabil
    ```bash
    git clone https://github.com/Matheus-TecDev/App-Frontend-TabelaLT.git
    
-Entrar na pasta
+2. Entrar na pasta
 
 	cd AppFrontLT
-Instalar dependências
+3. Instalar dependências
 
 	npm install
 	
-Rodar em ambiente de desenvolvimento
+4. Rodar em ambiente de desenvolvimento
 
 	npx expo start
 	
