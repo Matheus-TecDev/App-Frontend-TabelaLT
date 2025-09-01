@@ -10,7 +10,7 @@ Uma solução prática e funcional, construída como amostra para validar usabil
 
 ## 🎮 Preview  
 
-![Preview do Aplicativo](Images/preview.jpg)   
+![Preview do Aplicativo](assets/images/AppTabLT.jpg)   
 
 ---
 
